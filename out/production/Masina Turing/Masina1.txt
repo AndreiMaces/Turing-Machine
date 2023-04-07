@@ -1,0 +1,15 @@
+q5
+q0 BBR;BBR q0
+q1 bbR;BBS q2
+q1 aaR;BBS q2
+q2 aaR;BXR q1
+q2 bbR;BXR q1
+q1 BBL;BBL q3
+q3 bBL;XbL q3
+q3 aBL;XaL q3
+q3 bbL;BBS q3
+q3 aaL;BBS q3
+q3 BBR;BBR q4
+q4 aaR;aaR q4
+q4 bbR;bbR q4
+q4 BBS;BBS q5

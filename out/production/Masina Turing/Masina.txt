@@ -1,0 +1,12 @@
+q0 B#R;BBR q1
+q1 B#R;BBS q2
+q2 B0R;B0R q3
+q3 B#S;BBL q4
+q4 ##S;10L q4
+q4 ##S;01L q5
+q5 ##S;00L q5
+q5 ##S;11L q5
+q5 ##R;BBR q6
+q6 B0R;00R q6
+q6 B1R;11R q6
+q6 B#S;BBL q4
